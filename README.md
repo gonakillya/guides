@@ -1,11 +1,11 @@
 ## ⚠️STOP!⚠️
 
-This is the Github page meant for maintainers and contributors of this guide.
+This is the GitHub page meant for maintainers and contributors of this guide.
 
-If you want to view the guide, visit [[rb3pc.milohax.org]](https://rb3pc.milohax.org) instead.
+If you want to view the guide, visit [[guides.milohax.org]](https://guides.milohax.org/en/) instead.
 
 ## ⚠️!ALTO!⚠️
 
-Esta es la pagina de Github para mantenedores y contribuyentes de la guía.
+Esta es la pagina de GitHub para mantenedores y contribuyentes de la guía.
 
-Si quieres leer la guía, mejor visita [[rb3pc.milohax.org]](https://rb3pc.milohax.org).
+Si quieres leer la guía, visita [[guides.milohax.org]](https://guides.milohax.org/es).
